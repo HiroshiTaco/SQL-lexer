@@ -1,1 +1,0 @@
-SELECT * FROM tablas WHERE edad = 17
